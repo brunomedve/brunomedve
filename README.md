@@ -1,5 +1,5 @@
 ### Hello World! Eu sou o Bruno Medve 🤪
-- 📒 Atualmente estudando Javascript 
+- 📒 Atualmente estudando Java 
 - 📫 Contate-me no email: bruno_medve@outlook.com
 - 📚Nas horas vagas, além de estudar, gosto de jogar online 🎮
 - 😁 Pronomes: ele/dele
